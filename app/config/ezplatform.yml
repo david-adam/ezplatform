@@ -63,3 +63,19 @@ ezpublish:
 ez_platform_standard_design:
     # makes Kernel default templates (in EzPublishCoreBundle/Resources/views) part of standard Design
     override_kernel_templates: true
+
+netgen_information_collection:
+    system:
+        default:
+            action_config:
+                email:
+                    templates:
+                        default: 'AcmeBundle:email:default.html.twig'
+                    default_variables:
+                        sender: 'sender@example.com'
+                        recipient: 'recipient@example.com'
+                        subject: 'Subject'
+            actions:
+                default:
+                    - email
+                    - database
