@@ -52,7 +52,9 @@
         "white-october/pagerfanta-bundle": "^1.2",
         "roave/security-advisories": "dev-master",
         "leafo/scssphp": "^0.7.6",
-        "symfony/thanks": "^1.0.7"
+        "symfony/thanks": "^1.0.7",
+        "netgen/ez-forms-bundle": "^2.0",
+        "netgen/information-collection-bundle": "^1.5"
     },
     "require-dev": {
         "behat/behat": "^3.4.3",
