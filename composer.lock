@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d1217279d363f750758ba1ce6df43808",
+    "content-hash": "50e9fed621a4ad80fb4e473651d66bde",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -1247,20 +1247,20 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezsystems/ezplatform-admin-ui.git",
-                "reference": "48d3751c2283c9ed6c95911f821076b76ea9c787"
+                "reference": "6d89c31ab6440ee3642002bfeb7687d525edeaa0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezsystems/ezplatform-admin-ui/zipball/48d3751c2283c9ed6c95911f821076b76ea9c787",
-                "reference": "48d3751c2283c9ed6c95911f821076b76ea9c787",
+                "url": "https://api.github.com/repos/ezsystems/ezplatform-admin-ui/zipball/6d89c31ab6440ee3642002bfeb7687d525edeaa0",
+                "reference": "6d89c31ab6440ee3642002bfeb7687d525edeaa0",
                 "shasum": ""
             },
             "require": {
                 "ezsystems/ez-support-tools": "^0.2@dev",
-                "ezsystems/ezplatform-admin-ui-modules": "^1.2@dev",
+                "ezsystems/ezplatform-admin-ui-modules": "^1.3@dev",
                 "ezsystems/ezplatform-design-engine": "^2.0@dev",
-                "ezsystems/ezpublish-kernel": "^7.2@dev",
-                "ezsystems/repository-forms": "^2.2@dev",
+                "ezsystems/ezpublish-kernel": "^7.3@dev",
+                "ezsystems/repository-forms": "^2.3@dev",
                 "jms/translation-bundle": "^1.3.2",
                 "knplabs/knp-menu-bundle": "^2.1",
                 "mck89/peast": "^1.8",
@@ -1293,20 +1293,20 @@
                 "GPL-2.0-only"
             ],
             "description": "eZ Platform Admin v2",
-            "time": "2018-09-05T14:21:49+00:00"
+            "time": "2018-09-14T14:53:00+00:00"
         },
         {
             "name": "ezsystems/ezplatform-admin-ui-assets",
-            "version": "v3.0.0",
+            "version": "v3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezsystems/ezplatform-admin-ui-assets.git",
-                "reference": "ec962160aff4e2c27b803f15852874de5a7c8bf3"
+                "reference": "071b723009d6fac2b7b8c41600a99ef587cbcb21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezsystems/ezplatform-admin-ui-assets/zipball/ec962160aff4e2c27b803f15852874de5a7c8bf3",
-                "reference": "ec962160aff4e2c27b803f15852874de5a7c8bf3",
+                "url": "https://api.github.com/repos/ezsystems/ezplatform-admin-ui-assets/zipball/071b723009d6fac2b7b8c41600a99ef587cbcb21",
+                "reference": "071b723009d6fac2b7b8c41600a99ef587cbcb21",
                 "shasum": ""
             },
             "require": {
@@ -1329,7 +1329,7 @@
                 }
             ],
             "description": "External assets dependencies for EzPlatform AdminUI",
-            "time": "2018-05-29T07:25:31+00:00"
+            "time": "2018-09-12T09:04:12+00:00"
         },
         {
             "name": "ezsystems/ezplatform-admin-ui-modules",
@@ -1632,12 +1632,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezsystems/ezpublish-kernel.git",
-                "reference": "694a1c0faf6ebc2d3f4e498184e2d1afdf6a2d28"
+                "reference": "79864397a992429d678e66c824eef4b32b37f390"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezsystems/ezpublish-kernel/zipball/694a1c0faf6ebc2d3f4e498184e2d1afdf6a2d28",
-                "reference": "694a1c0faf6ebc2d3f4e498184e2d1afdf6a2d28",
+                "url": "https://api.github.com/repos/ezsystems/ezpublish-kernel/zipball/79864397a992429d678e66c824eef4b32b37f390",
+                "reference": "79864397a992429d678e66c824eef4b32b37f390",
                 "shasum": ""
             },
             "require": {
@@ -1716,7 +1716,7 @@
             ],
             "description": "Kernel used by ezsystems/ezplatform and derivatives. Provides the Content Repository, its APIs, and the application's Symfony framework integration.",
             "homepage": "https://ezplatform.com",
-            "time": "2018-09-10T07:29:58+00:00"
+            "time": "2018-09-14T14:33:57+00:00"
         },
         {
             "name": "ezsystems/repository-forms",
@@ -1724,12 +1724,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezsystems/repository-forms.git",
-                "reference": "2f1493c500bc4e609b192910a9fb520b391621c1"
+                "reference": "22d9d75fa130868536181261c8142e2928fc676e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezsystems/repository-forms/zipball/2f1493c500bc4e609b192910a9fb520b391621c1",
-                "reference": "2f1493c500bc4e609b192910a9fb520b391621c1",
+                "url": "https://api.github.com/repos/ezsystems/repository-forms/zipball/22d9d75fa130868536181261c8142e2928fc676e",
+                "reference": "22d9d75fa130868536181261c8142e2928fc676e",
                 "shasum": ""
             },
             "require": {
@@ -1774,7 +1774,7 @@
                 }
             ],
             "description": "Use Symfony forms with eZ Platform repository objects",
-            "time": "2018-08-29T07:03:01+00:00"
+            "time": "2018-09-11T18:53:34+00:00"
         },
         {
             "name": "fig/link-util",
@@ -2796,84 +2796,27 @@
             "time": "2018-07-22T01:22:08+00:00"
         },
         {
-            "name": "league/csv",
-            "version": "8.2.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/thephpleague/csv.git",
-                "reference": "d2aab1e7bde802582c3879acf03d92716577c76d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/csv/zipball/d2aab1e7bde802582c3879acf03d92716577c76d",
-                "reference": "d2aab1e7bde802582c3879acf03d92716577c76d",
-                "shasum": ""
-            },
-            "require": {
-                "ext-mbstring": "*",
-                "php": ">=5.5.0"
-            },
-            "require-dev": {
-                "friendsofphp/php-cs-fixer": "^1.9",
-                "phpunit/phpunit": "^4.0"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "8.2-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "League\\Csv\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Ignace Nyamagana Butera",
-                    "email": "nyamsprod@gmail.com",
-                    "homepage": "https://github.com/nyamsprod/",
-                    "role": "Developer"
-                }
-            ],
-            "description": "Csv data manipulation made easy in PHP",
-            "homepage": "http://csv.thephpleague.com",
-            "keywords": [
-                "csv",
-                "export",
-                "filter",
-                "import",
-                "read",
-                "write"
-            ],
-            "time": "2018-02-06T08:27:03+00:00"
-        },
-        {
             "name": "league/flysystem",
-            "version": "1.0.46",
+            "version": "1.0.47",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2"
+                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2",
-                "reference": "f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a11e4a75f256bdacf99d20780ce42d3b8272975c",
+                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c",
                 "shasum": ""
             },
             "require": {
+                "ext-fileinfo": "*",
                 "php": ">=5.5.9"
             },
             "conflict": {
                 "league/flysystem-sftp": "<1.0.6"
             },
             "require-dev": {
-                "ext-fileinfo": "*",
                 "phpspec/phpspec": "^3.4",
                 "phpunit/phpunit": "^5.7.10"
             },
@@ -2934,7 +2877,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2018-08-22T07:45:22+00:00"
+            "time": "2018-09-14T15:30:29+00:00"
         },
         {
             "name": "liip/imagine-bundle",
@@ -3216,124 +3159,6 @@
                 "crossdomain"
             ],
             "time": "2017-12-11T18:41:54+00:00"
-        },
-        {
-            "name": "netgen/ez-forms-bundle",
-            "version": "2.0.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/netgen/NetgenEzFormsBundle.git",
-                "reference": "3e8fab93e3398a01e17dcc18e82672b7d5011806"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/netgen/NetgenEzFormsBundle/zipball/3e8fab93e3398a01e17dcc18e82672b7d5011806",
-                "reference": "3e8fab93e3398a01e17dcc18e82672b7d5011806",
-                "shasum": ""
-            },
-            "require": {
-                "ezsystems/ezpublish-kernel": "*",
-                "symfony/symfony": "^2.8|^3.2"
-            },
-            "require-dev": {
-                "ezsystems/ezpublish-kernel": "^6.9",
-                "matthiasnoback/symfony-config-test": "~2.0",
-                "matthiasnoback/symfony-dependency-injection-test": "~1.0",
-                "phpunit/phpunit": "<6.0"
-            },
-            "type": "ezplatform-bundle",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "2.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Netgen\\Bundle\\EzFormsBundle\\": "bundle"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-2.0"
-            ],
-            "authors": [
-                {
-                    "name": "Netgen",
-                    "homepage": "http://www.netgenlabs.com"
-                }
-            ],
-            "description": "Integration of Symfony's Form component with eZ Platform Public API",
-            "homepage": "https://github.com/netgen/NetgenEzFormsBundle",
-            "keywords": [
-                "Forms",
-                "ez-forms-bundle",
-                "ezforms",
-                "ezplatform",
-                "ezpublish",
-                "netgen"
-            ],
-            "time": "2017-07-13T12:20:04+00:00"
-        },
-        {
-            "name": "netgen/information-collection-bundle",
-            "version": "v1.5.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/netgen/NetgenInformationCollectionBundle.git",
-                "reference": "e376d093a4884ddd185ef6ddbd1b720fd2804022"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/netgen/NetgenInformationCollectionBundle/zipball/e376d093a4884ddd185ef6ddbd1b720fd2804022",
-                "reference": "e376d093a4884ddd185ef6ddbd1b720fd2804022",
-                "shasum": ""
-            },
-            "require": {
-                "doctrine/orm": "^2.5",
-                "ezsystems/ezpublish-kernel": "*",
-                "league/csv": "^8.0",
-                "netgen/ez-forms-bundle": "^1.3.2|^2.0",
-                "twig/twig": "^1.28|^2.0"
-            },
-            "require-dev": {
-                "ezsystems/ezpublish-kernel": "~6.0|~7.0",
-                "friendsofphp/php-cs-fixer": "~2.0",
-                "matthiasnoback/symfony-config-test": "~2.0",
-                "matthiasnoback/symfony-dependency-injection-test": "~1.0",
-                "phpunit/phpunit": "^5.7",
-                "swiftmailer/swiftmailer": "^5.0|^6.0"
-            },
-            "type": "ezplatform-bundle",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.0.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Netgen\\Bundle\\InformationCollectionBundle\\": "bundle"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-2.0-only"
-            ],
-            "authors": [
-                {
-                    "name": "Netgen",
-                    "homepage": "http://www.netgenlabs.com"
-                }
-            ],
-            "description": "Information collection alike feature for eZ Publish 5/eZ Platform",
-            "homepage": "https://github.com/netgen/NetgenInformationCollectionBundle",
-            "keywords": [
-                "ezplatform",
-                "ezpublish",
-                "information collection",
-                "information-collection-bundle",
-                "netgen"
-            ],
-            "time": "2018-08-15T22:55:17+00:00"
         },
         {
             "name": "netgen/query-translator",
@@ -4719,16 +4544,16 @@
         },
         {
             "name": "swiftmailer/swiftmailer",
-            "version": "v6.1.2",
+            "version": "v6.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swiftmailer/swiftmailer.git",
-                "reference": "7d760881d266d63c5e7a1155cbcf2ac656a31ca8"
+                "reference": "8ddcb66ac10c392d3beb54829eef8ac1438595f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/7d760881d266d63c5e7a1155cbcf2ac656a31ca8",
-                "reference": "7d760881d266d63c5e7a1155cbcf2ac656a31ca8",
+                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/8ddcb66ac10c392d3beb54829eef8ac1438595f4",
+                "reference": "8ddcb66ac10c392d3beb54829eef8ac1438595f4",
                 "shasum": ""
             },
             "require": {
@@ -4774,7 +4599,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2018-07-13T07:04:35+00:00"
+            "time": "2018-09-11T07:12:52+00:00"
         },
         {
             "name": "symfony-cmf/routing",
