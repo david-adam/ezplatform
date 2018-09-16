@@ -1,0 +1,9 @@
+# This file is auto-generated during the composer install
+parameters:
+    env(SYMFONY_SECRET): IchBin4@Berlin7DU
+    env(DATABASE_DRIVER): pdo_mysql
+    env(DATABASE_HOST): us-cdbr-iron-east-01.cleardb.net
+    env(DATABASE_PORT): 3306
+    env(DATABASE_NAME): heroku_c5ff9e1a55514ee
+    env(DATABASE_USER): bcfa57566c0c4f
+    env(DATABASE_PASSWORD): 71c50b56
