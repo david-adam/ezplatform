@@ -57,8 +57,7 @@
         "netgen/information-collection-bundle": "^1.5",
         "ext-gd": "^7.2",
         "ext-xsl": "^7.2",
-        "ext-intl": "*",
-        "heroku/heroku-buildpack-php": "^144.0"
+        "ext-intl": "*"
     },
     "require-dev": {
         "behat/behat": "^3.4.3",
@@ -69,7 +68,8 @@
         "ezsystems/behatbundle": "^6.5.3",
         "phpunit/phpunit": "^6.4.4",
         "sensio/generator-bundle": "^3.1.7",
-        "symfony/phpunit-bridge": "^3.4.11"
+        "symfony/phpunit-bridge": "^3.4.11",
+        "heroku/heroku-buildpack-php": "^144.0"
     },
     "conflict": {
         "symfony/symfony": "3.4.9||3.4.12",

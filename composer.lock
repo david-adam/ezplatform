@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a68f635ecaf09ada65c2f0296ba7e232",
+    "content-hash": "666a8152bde159c79024f4cb18f04ebd",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -1247,12 +1247,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezsystems/ezplatform-admin-ui.git",
-                "reference": "cca2667fefcc744b199ce43bdebdfe3ad6a5090d"
+                "reference": "b72c51cf9e875ff352283c21c684a370d9f2eebb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezsystems/ezplatform-admin-ui/zipball/cca2667fefcc744b199ce43bdebdfe3ad6a5090d",
-                "reference": "cca2667fefcc744b199ce43bdebdfe3ad6a5090d",
+                "url": "https://api.github.com/repos/ezsystems/ezplatform-admin-ui/zipball/b72c51cf9e875ff352283c21c684a370d9f2eebb",
+                "reference": "b72c51cf9e875ff352283c21c684a370d9f2eebb",
                 "shasum": ""
             },
             "require": {
@@ -1293,7 +1293,7 @@
                 "GPL-2.0-only"
             ],
             "description": "eZ Platform Admin v2",
-            "time": "2018-09-17T11:55:10+00:00"
+            "time": "2018-09-17T14:36:16+00:00"
         },
         {
             "name": "ezsystems/ezplatform-admin-ui-assets",
@@ -2247,50 +2247,6 @@
                 "xml"
             ],
             "time": "2018-07-11T16:41:25+00:00"
-        },
-        {
-            "name": "heroku/heroku-buildpack-php",
-            "version": "v144",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/heroku/heroku-buildpack-php.git",
-                "reference": "c12b3e29144e5732c863982fc08f03fbcf22ba06"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/c12b3e29144e5732c863982fc08f03fbcf22ba06",
-                "reference": "c12b3e29144e5732c863982fc08f03fbcf22ba06",
-                "shasum": ""
-            },
-            "bin": [
-                "bin/heroku-hhvm-apache2",
-                "bin/heroku-hhvm-nginx",
-                "bin/heroku-php-apache2",
-                "bin/heroku-php-nginx"
-            ],
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "David Zuelke",
-                    "email": "dz@heroku.com"
-                }
-            ],
-            "description": "Toolkit for starting a PHP application locally, with or without foreman, using the same config for PHP/HHVM and Apache2/Nginx as on Heroku",
-            "homepage": "https://github.com/heroku/heroku-buildpack-php",
-            "keywords": [
-                "apache",
-                "apache2",
-                "foreman",
-                "heroku",
-                "hhvm",
-                "nginx",
-                "php"
-            ],
-            "time": "2018-09-14T15:25:27+00:00"
         },
         {
             "name": "imagine/imagine",
@@ -7026,6 +6982,50 @@
                 "url"
             ],
             "time": "2017-03-20T17:10:46+00:00"
+        },
+        {
+            "name": "heroku/heroku-buildpack-php",
+            "version": "v144",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/heroku/heroku-buildpack-php.git",
+                "reference": "c12b3e29144e5732c863982fc08f03fbcf22ba06"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/c12b3e29144e5732c863982fc08f03fbcf22ba06",
+                "reference": "c12b3e29144e5732c863982fc08f03fbcf22ba06",
+                "shasum": ""
+            },
+            "bin": [
+                "bin/heroku-hhvm-apache2",
+                "bin/heroku-hhvm-nginx",
+                "bin/heroku-php-apache2",
+                "bin/heroku-php-nginx"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Zuelke",
+                    "email": "dz@heroku.com"
+                }
+            ],
+            "description": "Toolkit for starting a PHP application locally, with or without foreman, using the same config for PHP/HHVM and Apache2/Nginx as on Heroku",
+            "homepage": "https://github.com/heroku/heroku-buildpack-php",
+            "keywords": [
+                "apache",
+                "apache2",
+                "foreman",
+                "heroku",
+                "hhvm",
+                "nginx",
+                "php"
+            ],
+            "time": "2018-09-14T15:25:27+00:00"
         },
         {
             "name": "instaclick/php-webdriver",
