@@ -38,3 +38,6 @@ platform1_admin_route:
     defaults:
         path: /admin
         permanent: true
+
+_netgen_information_collection:
+    resource: '@NetgenInformationCollectionBundle/Resources/config/routing.yml'

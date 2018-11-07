@@ -3279,16 +3279,16 @@
         },
         {
             "name": "netgen/information-collection-bundle",
-            "version": "v1.5.3",
+            "version": "v1.5.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/netgen/NetgenInformationCollectionBundle.git",
-                "reference": "e376d093a4884ddd185ef6ddbd1b720fd2804022"
+                "reference": "b753451af169a7e2dddf6d3cce4239c87d15fdfb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/netgen/NetgenInformationCollectionBundle/zipball/e376d093a4884ddd185ef6ddbd1b720fd2804022",
-                "reference": "e376d093a4884ddd185ef6ddbd1b720fd2804022",
+                "url": "https://api.github.com/repos/netgen/NetgenInformationCollectionBundle/zipball/b753451af169a7e2dddf6d3cce4239c87d15fdfb",
+                "reference": "b753451af169a7e2dddf6d3cce4239c87d15fdfb",
                 "shasum": ""
             },
             "require": {
@@ -3336,7 +3336,7 @@
                 "information-collection-bundle",
                 "netgen"
             ],
-            "time": "2018-08-15T22:55:17+00:00"
+            "time": "2018-10-24T11:54:53+00:00"
         },
         {
             "name": "netgen/query-translator",
