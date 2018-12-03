@@ -41,7 +41,6 @@
         "ezsystems/repository-forms": "^2.4@dev",
         "friendsofsymfony/jsrouting-bundle": "^1.6.3",
         "roave/security-advisories": "dev-master",
-        "leafo/scssphp": "^0.7.6",
         "symfony/thanks": "^1.0.7",
         "netgen/ez-forms-bundle": "^2.0",
         "netgen/information-collection-bundle": "^1.5",
